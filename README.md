@@ -1,6 +1,6 @@
 ### Hi, I'm Rene aka froeschli 👋
 
-[![Rene's github stats](https://github-readme-stats.vercel.app/api?username=poyyaren)](https://github.com/poyyaren/github-readme-stats)
+[![Rene's github stats](https://github-readme-stats.vercel.app/api?username=poyyaren&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/poyyaren/github-readme-stats)
 
 <!--
 **poyyaren/poyyaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
